@@ -2,6 +2,12 @@
 
 Hi, I'm Ananya, a Data Analyst fresher skilled in Python, SQL, Excel, and Power BI.
 
+## 🌐 Portfolio Website
+
+👉 Visit My Portfolio
+https://ananya-patkar-portfolio.netlify.app/
+
+
 ## 🎥 Video Resume
 
 👉 Watch my Video Resume
